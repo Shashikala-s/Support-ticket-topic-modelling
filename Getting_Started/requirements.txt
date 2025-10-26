@@ -1,0 +1,8 @@
+pyodbc
+pandas
+bertopic
+pydantic
+sentence-transformers
+python-dotenv
+openai
+hf_xet
